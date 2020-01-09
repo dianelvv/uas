@@ -1,0 +1,45 @@
+body {
+		background:url(02.jfif);
+		background-size:cover;
+	}
+	
+body * {
+		font-family:'Lato', sans-serif;
+		color:#FC5B07;
+	}
+	
+.klp-form {
+		margin: 10px 0;
+	}
+	
+.klp-form label {
+		display:block;
+	}
+	
+.frm-container {
+		border:3px solid #FC5B07;
+		width:20%;
+		margin:100px auto;
+		border-radius:10px;	
+	}
+	
+.frm {
+		width:100%;
+		box-sizing:border-box;
+		border:1px solid #FFF;
+		padding:5px 20px;
+		border-radius:5px;	
+	}
+	
+.btn {
+		width:100%;
+		border:none;
+		background:#FFF;
+		text-align:center;
+		padding:5px 10px;
+		border-radius:3px;
+		margin-bottom:10px;
+		color:000;
+		font-weight:bold;	
+	}
+
